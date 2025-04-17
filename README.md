@@ -1,6 +1,6 @@
 ## My website ##
 
-<p>Modelo de website com o tema '' desenvolvido em HTML.</p>
+<p>Modelo de website com o tema 'restaurante' desenvolvido em HTML.</p>
 
 
 ![img1](https://github.com/user-attachments/assets/e5ed5ddd-ff82-4cfc-8329-018fa2aacfe6)
